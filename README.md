@@ -4,7 +4,7 @@
 [![CI Build Status](https://github.com//pkgforge-dev/Authenticator-AppImage/actions/workflows/blank.yml/badge.svg)](https://github.com/pkgforge-dev/Authenticator-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://gitlab.gnome.org/World/Authenticator/-/raw/master/data/icons/com.belmoussaoui.Authenticator.svg?ref_type=heads" />
+  <img src="https://gitlab.gnome.org/World/Authenticator/-/raw/master/data/icons/com.belmoussaoui.Authenticator.svg?ref_type=heads" width="128" />
 </p>
 
 * [Latest Stable Release](https://github.com/pkgforge-dev/Authenticator-AppImage/releases/latest)
