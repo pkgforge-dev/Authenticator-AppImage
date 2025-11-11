@@ -48,3 +48,4 @@ More at: [AnyLinux-AppImages](https://pkgforge-dev.github.io/Anylinux-AppImages/
     - Those are the files that need to be in host's `${XDG_DATA_HOME}` for search-provider functionality to work, which you can delete after the app uninstallation, along with other app dotfiles:
       - `${XDG_DATA_HOME}/gnome-shell/search-providers/com.belmoussaoui.Authenticator.search-provider.ini`
       - `${XDG_DATA_HOME}/dbus-1/services/com.belmoussaoui.Authenticator.SearchProvider.service`
+  - When you click the search entry to copy the code, it will copy it, but the notification about it won't show
