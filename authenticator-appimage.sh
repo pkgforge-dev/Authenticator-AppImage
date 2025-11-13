@@ -26,9 +26,6 @@ cp -v /usr/share/gnome-shell/search-providers/com.belmoussaoui.Authenticator.sea
 mkdir -p ./AppDir/share/dbus-1/services/
 cp -v /usr/share/dbus-1/services/com.belmoussaoui.Authenticator.SearchProvider.service ./AppDir/share/dbus-1/services/com.belmoussaoui.Authenticator.SearchProvider.service
 
-## Set gsettings to save to keyfile, instead to dconf
-echo "GSETTINGS_BACKEND=keyfile" >> ./AppDir/.env
-
 # Make the AppImage with uruntime
 ./quick-sharun --make-appimage
 
