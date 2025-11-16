@@ -1,7 +1,7 @@
 # Authenticator-AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Authenticator-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Authenticator-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/Authenticator-AppImage/actions/workflows/blank.yml/badge.svg)](https://github.com/pkgforge-dev/Authenticator-AppImage/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/Authenticator-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Authenticator-AppImage/releases/latest)
 
 <p align="center">
   <img src="https://gitlab.gnome.org/World/Authenticator/-/raw/master/data/icons/com.belmoussaoui.Authenticator.svg?ref_type=heads" width="128" />
