@@ -12,7 +12,6 @@ export ICON=/usr/share/icons/hicolor/scalable/apps/com.belmoussaoui.Authenticato
 export DESKTOP=/usr/share/applications/com.belmoussaoui.Authenticator.desktop
 export DEPLOY_OPENGL=1
 export DEPLOY_PIPEWIRE=1 # For camera portal
-export STARTUPWMCLASS=authenticator
 export GTK_CLASS_FIX=1
 
 # Trace and deploy all files and directories needed for the application (including binaries, libraries and others)
