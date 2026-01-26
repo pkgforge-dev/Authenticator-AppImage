@@ -1,3 +1,5 @@
+<div align="center">
+
 # Authenticator AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Authenticator-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Authenticator-AppImage/releases/latest)
@@ -8,7 +10,11 @@
   <img src="https://gitlab.gnome.org/World/Authenticator/-/raw/master/data/icons/com.belmoussaoui.Authenticator.svg?ref_type=heads" width="128" />
 </p>
 
-* [Upstream URL](https://gitlab.gnome.org/World/Authenticator)
+| Latest Stable Release | Upstream URL |
+| :---: | :---: |
+| [Click here](https://github.com/pkgforge-dev/Authenticator-AppImage/releases/latest) | [Click here](https://gitlab.gnome.org/World/Authenticator) |
+
+</div>
 
 ---
 
